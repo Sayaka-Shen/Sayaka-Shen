@@ -1,8 +1,5 @@
 <div align="center">
-
-<!-- Header animé -->
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Ga%C3%ABtan%20Decisy&fontSize=50&fontColor=58a6ff&animation=fadeIn&fontAlignY=38&desc=Engine%20%26%20Game%20Programmer%20%E2%80%A2%20C%2B%2B%20%2F%20C%23%20Developer&descAlignY=58&descSize=18&descColor=8b949e)
-
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Ga%C3%ABtan+Decisy;Engine+%26+Game+Programmer;C%2B%2B+%2F+C%23+Developer;IIM+Digital+School" alt="Typing SVG" />
 </div>
 
 ---
