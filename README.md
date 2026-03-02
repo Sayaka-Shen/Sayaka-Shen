@@ -68,7 +68,7 @@ public:
 [![Portfolio](https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=firefox&logoColor=58a6ff&label=🌐)](https://gaetandecisy.myportfolio.com/home)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gaetan-decisy/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gaetan.decisy6@hotmail.com)
-[![CV](https://img.shields.io/badge/Mon%20CV-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/drive/folders/1mOAQj3ZZCisDiggtVXbAus-Qf5mx_hvy)
+[![CV](https://img.shields.io/badge/Mon%20CV-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/13T25e87LniRR_el-pjY51ZtD1oCwzwH3/view?usp=sharing)
 
 </div>
 
