@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Gaëtan Decisy</h1>
-<h3 align="center">I am a passionate C++ / C# developer from France.</h3>
+<h1 align="Left">Hi 👋, I'm Gaëtan Decisy</h1>
+<h3 align="Left">I am a passionate C++ / C# developer from France.</h3>
 
 I’m currently working on an **Engine** which is private for now. I'm trying to learn about Engine Programming and I use Open GL as my graphic library. I recently finished my C++/Qt project, it was my first experience in software programming with Qt.
 
