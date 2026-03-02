@@ -25,8 +25,8 @@ public:
 
 ## 🚀 Ce sur quoi je travaille
 
-- 🪟 J'ai récemment terminé mon projet C++/Qt: Crazy Launcher est un launcher pour regrouper et lancer des projets au même endroit
-- 🔧 **Mon propre moteur de jeu** (privé) —  Rendu OpenGL, système d'input, architecture ECS, editor 
+- 🪟 J'ai récemment terminé mon projet C++/Qt : Crazy Launcher est un launcher pour regrouper et lancer des projets au même endroit
+- 🔧 **Mon propre moteur de jeu** (privé) : Rendu OpenGL, système d'input, architecture ECS, editor 
 - 📚 Apprentissage de l'**Engine Programming** et du rendu temps réel
 - 🎮 Projets Game Dev à l'IIM
 
