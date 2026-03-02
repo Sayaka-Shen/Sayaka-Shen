@@ -23,6 +23,8 @@ You also can contact me on linkedin: [https://www.linkedin.com/in/gaetan-decisy/
   <a href="https://doc.qt.io/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/qt/qt-original.svg" alt="csharp" width="40" height="40"/> </a> 
 </p>
 
+==========
+
 Before wanted to discover more low level programming languages, I have done a two years degree in **Web Programming** where I learnt how to do web page and web application.
 
 <h3 align="left">The languages and tools from Web/App Programming</h3>
