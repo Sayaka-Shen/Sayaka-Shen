@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Header animé -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Gaëtan%20Decisy&fontSize=50&fontColor=58a6ff&animation=fadeIn&fontAlignY=38&desc=Engine%20%26%20Game%20Programmer%20•%20C%2B%2B%20%2F%20C%23%20Developer&descAlignY=58&descSize=18&descColor=8b949e" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Gaetan%20Decisy&fontSize=50&fontColor=58a6ff&animation=fadeIn&fontAlignY=38&desc=Engine%20%26%20Game%20Programmer%20•%20C%2B%2B%20%2F%20C%23%20Developer&descAlignY=58&descSize=18&descColor=8b949e" />
 
 </div>
 
@@ -9,9 +9,9 @@
 
 ## 👾 À propos de moi
 
-Passionné par la programmation bas niveau et le développement de jeux vidéo, je suis actuellement en **3ème année de Game Programming à l'IIM Digital School** (Paris). J'explore en profondeur le fonctionnement interne des moteurs de jeu, en construisant le mien avec **OpenGL**.
+Passionné par la programmation bas niveau et le développement de jeux vidéo, je suis actuellement en **3ème année de Game Programming à l'IIM Digital School** (Paris). J'explore en profondeur le fonctionnement interne des moteurs de jeu, en construisant le mien avec **OpenGL**. 😊
 
-Avant de plonger dans le C++ et le C#, j'ai effectué un Titre **BTS en Développement Web**, ce qui me donne une vision complète du développement de site web ansi que d'application web.
+Avant de plonger dans le C++ et le C#, j'ai effectué un Titre **BTS en Développement Web**, ce qui me donne une vision complète du développement de site web ansi que d'application web. 😄
 
 ```cpp
 class GaetanDecisy {
@@ -61,23 +61,6 @@ public:
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
 </p>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=GaetanDecisy&show_icons=true&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&hide_border=false&count_private=true"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GaetanDecisy&layout=compact&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&hide_border=false&langs_count=6"/>
-
-</div>
-
-<div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com?user=GaetanDecisy&theme=github-dark-blue&border=30363d&background=0d1117&ring=58a6ff&fire=ff7b00&currStreakLabel=58a6ff)
-
-</div>
 
 ---
 
