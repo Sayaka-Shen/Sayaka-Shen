@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Header animé -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Gaetan%20Decisy&fontSize=50&fontColor=58a6ff&animation=fadeIn&fontAlignY=38&desc=Engine%20%26%20Game%20Programmer%20•%20C%2B%2B%20%2F%20C%23%20Developer&descAlignY=58&descSize=18&descColor=8b949e" />
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Ga%C3%ABtan%20Decisy&fontSize=50&fontColor=58a6ff&animation=fadeIn&fontAlignY=38&desc=Engine%20%26%20Game%20Programmer%20%E2%80%A2%20C%2B%2B%20%2F%20C%23%20Developer&descAlignY=58&descSize=18&descColor=8b949e)
 
 </div>
 
