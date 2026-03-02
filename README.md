@@ -8,7 +8,7 @@
 
 Passionné par la programmation bas niveau et le développement de jeux vidéo, je suis actuellement en **3ème année de Game Programming à l'IIM Digital School** (Paris). J'explore en profondeur le fonctionnement interne des moteurs de jeu, en construisant le mien avec **OpenGL**. 😊
 
-Avant de plonger dans le C++ et le C#, j'ai effectué un Titre **BTS en Développement Web**, ce qui me donne une vision complète du développement de site web ansi que d'application web. 😄
+Avant de plonger dans le C++ et le C#, j'ai effectué un **BTS en Développement Web**, ce qui me donne une vision complète du développement de site web ansi que d'application web. 😄
 
 ```cpp
 class GaetanDecisy {
