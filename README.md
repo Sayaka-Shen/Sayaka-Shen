@@ -11,7 +11,8 @@ Passionné par la programmation bas niveau et le développement de jeux vidéo, 
 Avant de plonger dans le C++ et le C#, j'ai effectué un **BTS en Développement Web**, ce qui me donne une vision complète du développement de site web ansi que d'application web. 😄
 
 ```cpp
-class GaetanDecisy {
+class GaetanDecisy
+{
 public:
     std::string school    = "IIM Digital School — Game Programming (3ème année)";
     std::string current   = "Développement d'un moteur de jeu avec OpenGL (privé)";
